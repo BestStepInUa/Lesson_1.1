@@ -1,7 +1,7 @@
 const isLeapYear = require('./isLeapYear');
 const getCurrentMonth = require('./getCurrentMonth');
 
-module.export = {
+module.exports = {
   isLeapYear,
   getCurrentMonth,
 };
